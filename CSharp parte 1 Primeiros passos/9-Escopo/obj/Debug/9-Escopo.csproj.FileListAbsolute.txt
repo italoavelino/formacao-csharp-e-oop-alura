@@ -1,0 +1,7 @@
+C:\italoavelino\Alura.CSharp\AprendendoCSharp\9-Escopo\bin\Debug\9-Escopo.exe.config
+C:\italoavelino\Alura.CSharp\AprendendoCSharp\9-Escopo\bin\Debug\9-Escopo.exe
+C:\italoavelino\Alura.CSharp\AprendendoCSharp\9-Escopo\bin\Debug\9-Escopo.pdb
+C:\italoavelino\Alura.CSharp\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.csproj.AssemblyReference.cache
+C:\italoavelino\Alura.CSharp\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.csproj.CoreCompileInputs.cache
+C:\italoavelino\Alura.CSharp\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.exe
+C:\italoavelino\Alura.CSharp\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.pdb
